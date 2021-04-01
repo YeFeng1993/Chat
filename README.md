@@ -7,7 +7,7 @@
 ## 2. 使用方法
     git clone https://github.com/YeFeng1993/Chat
     用QT打开工程，直接编译运行  
-    ![](https://github.com/YeFeng1993/images/blob/main/example.png)
+   ![](https://github.com/YeFeng1993/images/blob/main/example.png)
     
     
 ## 3. 需要添加的功能
