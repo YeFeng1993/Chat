@@ -1,5 +1,4 @@
 # Chat
-QT epoll for chat  
 
 ## 1. Linux下的聊天程序（P2P）
     QT = 5.14.2  
