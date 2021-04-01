@@ -8,8 +8,11 @@
     git clone https://github.com/YeFeng1993/Chat
     用QT打开工程，直接编译运行
     
+    
+    
 ## 3. 需要添加的功能
     文件传输
     群聊
     聊天记录保存
+    UI美化
     
